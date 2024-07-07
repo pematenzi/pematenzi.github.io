@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "An Analysis of Lego Dataset"
+excerpt: "Lego Rebrickable dataset analysis<br/><img src='/images/Lego.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+In this project, I analyzed the Rebrickable dataset. The dataset can be found in CSV format in the [Rebrickable website](https://rebrickable.com/downloads/).
+
+For this project I used BigQuery and the codes can be found Here is a [Github](https://github.com/pematenzi/lego).
